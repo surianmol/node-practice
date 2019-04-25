@@ -1,0 +1,20 @@
+{
+  "name": "socket-io-demo",
+  "version": "1.0.0",
+  "description": "Learning socket.io",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^2.0.1",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  }
+}
